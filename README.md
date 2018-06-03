@@ -1,14 +1,14 @@
-# Salary precition using boosting
-Predicting the salary of a job using various features:
+# Salary precition using boosting</br>
+Predicting the salary of a job using various features:</br>
 
-Features:
-Company id (string) - ID of the company the job is for
-Highest Degree (string) - Name of the degree required
-Major Subject (string) - Major of the degree
-Domain (string) - Domain of the job
-Designation (string) - Designation the job is for
-Experience (numerical) - # of years of experience needed
-Distance (numerical) - Distance to location of the job
+Features:</br>
+Company id (string) - ID of the company the job is for</br></br>
+Highest Degree (string) - Name of the degree required</br>
+Major Subject (string) - Major of the degree</br>
+Domain (string) - Domain of the job</br>
+Designation (string) - Designation the job is for</br>
+Experience (numerical) - # of years of experience needed</br>
+Distance (numerical) - Distance to location of the job</br>
 
-Target:
-Salary (numerical)
+Target:</br>
+Salary (numerical)</br>
