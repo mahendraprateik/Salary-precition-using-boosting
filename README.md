@@ -1,4 +1,4 @@
-# Salary precition using boosting</br>
+# Salary prediction using boosting</br>
 Predicting the salary of a job using various features:</br>
 
 Features:</br>
